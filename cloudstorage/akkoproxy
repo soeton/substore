@@ -1,4 +1,5 @@
-IP  - {"name":"🇺🇸 美国 New York Aiyun Network 住宅IP","server":"45.150.52.173","port":33038,"type":"vless","uuid":"32fc1911-cb70-4559-e3ad-04e0354f3204","tls":true,"tfo":false,"flow":"xtls-rprx-vision","skip-cert-verify":true,"client-fingerprint":"chrome","network":"tcp","servername":"dny313.yy004vip.uk"}
+proxies:
+  - {"name":"🇺🇸 美国 New York Aiyun Network 住宅IP","server":"45.150.52.173","port":33038,"type":"vless","uuid":"32fc1911-cb70-4559-e3ad-04e0354f3204","tls":true,"tfo":false,"flow":"xtls-rprx-vision","skip-cert-verify":true,"client-fingerprint":"chrome","network":"tcp","servername":"dny313.yy004vip.uk"}
   - {"name":"🇷🇺 俄罗斯联邦-莫斯科-Individual-Entrepreneur-Anton-Levin-住宅IP","server":"89.169.7.35","port":443,"type":"vless","uuid":"57896680-ef2e-416a-89b7-f69885c0777e","tls":false,"tfo":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇺🇸 美国-Hanover-Itglobal.com-Nl-B.v.-住宅IP","server":"45.138.27.35","port":443,"type":"vless","uuid":"57896680-ef2e-416a-89b7-f69885c0777e","tls":false,"tfo":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇮🇷 伊朗-Noyan-Abr-Arvan-Co.-(-Private-Joint-Stock)-住宅IP","server":"37.152.189.4","port":9405,"type":"ss","cipher":"chacha20-ietf-poly1305","password":"5POcLcRsVi-JtgSXp11_KQ"}
