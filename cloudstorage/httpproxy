@@ -1,0 +1,47 @@
+proxies:
+  - {"name":"🇭🇰 香港 01","server":"cthka.ssv.vc","port":30443,"type":"http","username":"test","password":"test.+","tls":true,"skip-cert-verify":true,"sni":"cthka.ssv.vc"}
+  - {"name":"🇭🇰 香港 02","server":"cthka.ssv.vc","port":40443,"type":"http","username":"test","password":"test.+","tls":true,"skip-cert-verify":true,"sni":"cthka.ssv.vc"}
+  - {"name":"🇭🇰 香港 03","server":"cthkb.ssv.vc","port":30443,"type":"http","username":"test","password":"test.+","tls":true,"skip-cert-verify":true,"sni":"cthkb.ssv.vc"}
+  - {"name":"🇭🇰 香港 04","server":"cthkb.ssv.vc","port":40443,"type":"http","username":"test","password":"test.+","tls":true,"skip-cert-verify":true,"sni":"cthkb.ssv.vc"}
+  - {"name":"🇭🇰 香港 05","server":"cuhka.ssv.vc","port":30443,"type":"http","username":"test","password":"test.+","tls":true,"skip-cert-verify":true,"sni":"cuhka.ssv.vc"}
+  - {"name":"🇭🇰 香港 06","server":"cuhka.ssv.vc","port":40443,"type":"http","username":"test","password":"test.+","tls":true,"skip-cert-verify":true,"sni":"cuhka.ssv.vc"}
+  - {"name":"🇭🇰 香港 07","server":"cuhkb.ssv.vc","port":30443,"type":"http","username":"test","password":"test.+","tls":true,"skip-cert-verify":true,"sni":"cuhkb.ssv.vc"}
+  - {"name":"🇭🇰 香港 08","server":"cuhkb.ssv.vc","port":40443,"type":"http","username":"test","password":"test.+","tls":true,"skip-cert-verify":true,"sni":"cuhkb.ssv.vc"}
+  - {"name":"🇭🇰 香港 09","server":"cmhka.ssv.vc","port":30443,"type":"http","username":"test","password":"test.+","tls":true,"skip-cert-verify":true,"sni":"cmhka.ssv.vc"}
+  - {"name":"🇭🇰 香港 10","server":"cmhka.ssv.vc","port":40443,"type":"http","username":"test","password":"test.+","tls":true,"skip-cert-verify":true,"sni":"cmhka.ssv.vc"}
+  - {"name":"🇭🇰 香港 11","server":"cmhkb.ssv.vc","port":30443,"type":"http","username":"test","password":"test.+","tls":true,"skip-cert-verify":true,"sni":"cmhkb.ssv.vc"}
+  - {"name":"🇭🇰 香港 12","server":"cmhkb.ssv.vc","port":30443,"type":"http","username":"test","password":"test.+","tls":true,"skip-cert-verify":true,"sni":"cmhkb.ssv.vc"}
+  - {"name":"🇯🇵 日本 01","server":"ctjpa.ssv.vc","port":30444,"type":"http","username":"test","password":"test.+","tls":true,"skip-cert-verify":true,"sni":"ctjpa.ssv.vc"}
+  - {"name":"🇯🇵 日本 02","server":"ctjpa.ssv.vc","port":40444,"type":"http","username":"test","password":"test.+","tls":true,"skip-cert-verify":true,"sni":"ctjpa.ssv.vc"}
+  - {"name":"🇯🇵 日本 03","server":"ctjpb.ssv.vc","port":30444,"type":"http","username":"test","password":"test.+","tls":true,"skip-cert-verify":true,"sni":"ctjpb.ssv.vc"}
+  - {"name":"🇯🇵 日本 04","server":"ctjpb.ssv.vc","port":40444,"type":"http","username":"test","password":"test.+","tls":true,"skip-cert-verify":true,"sni":"ctjpb.ssv.vc"}
+  - {"name":"🇯🇵 日本 05","server":"cujpa.ssv.vc","port":30444,"type":"http","username":"test","password":"test.+","tls":true,"skip-cert-verify":true,"sni":"cujpa.ssv.vc"}
+  - {"name":"🇯🇵 日本 06","server":"cujpa.ssv.vc","port":40444,"type":"http","username":"test","password":"test.+","tls":true,"skip-cert-verify":true,"sni":"cujpa.ssv.vc"}
+  - {"name":"🇯🇵 日本 07","server":"cujpb.ssv.vc","port":30444,"type":"http","username":"test","password":"test.+","tls":true,"skip-cert-verify":true,"sni":"cujpb.ssv.vc"}
+  - {"name":"🇯🇵 日本 08","server":"cujpb.ssv.vc","port":40444,"type":"http","username":"test","password":"test.+","tls":true,"skip-cert-verify":true,"sni":"cujpb.ssv.vc"}
+  - {"name":"🇯🇵 日本 09","server":"cmjpa.ssv.vc","port":30444,"type":"http","username":"test","password":"test.+","tls":true,"skip-cert-verify":true,"sni":"cmjpa.ssv.vc"}
+  - {"name":"🇯🇵 日本 10","server":"cmjpa.ssv.vc","port":40444,"type":"http","username":"test","password":"test.+","tls":true,"skip-cert-verify":true,"sni":"cmjpa.ssv.vc"}
+  - {"name":"🇯🇵 日本 11","server":"cmjpb.ssv.vc","port":30444,"type":"http","username":"test","password":"test.+","tls":true,"skip-cert-verify":true,"sni":"cmjpb.ssv.vc"}
+  - {"name":"🇯🇵 日本 12","server":"cmjpb.ssv.vc","port":40444,"type":"http","username":"test","password":"test.+","tls":true,"skip-cert-verify":true,"sni":"cmjpb.ssv.vc"}
+  - {"name":"🇯🇵 日本 13","server":"awsjp.ssv.vc","port":30444,"type":"http","username":"test","password":"test.+","tls":true,"skip-cert-verify":true,"sni":"awsjp.ssv.vc"}
+  - {"name":"🇬🇧 英国 01","server":"ctuka.ssv.vc","port":30447,"type":"http","username":"test","password":"test.+","tls":true,"skip-cert-verify":true,"sni":"ctuka.ssv.vc"}
+  - {"name":"🇬🇧 英国 02","server":"ctukb.ssv.vc","port":30447,"type":"http","username":"test","password":"test.+","tls":true,"skip-cert-verify":true,"sni":"ctukb.ssv.vc"}
+  - {"name":"🇬🇧 英国 03","server":"ctuka.ssv.vc","port":30447,"type":"http","username":"test","password":"test.+","tls":true,"skip-cert-verify":true,"sni":"ctuka.ssv.vc"}
+  - {"name":"🇬🇧 英国 04","server":"ctukb.ssv.vc","port":30447,"type":"http","username":"test","password":"test.+","tls":true,"skip-cert-verify":true,"sni":"ctukb.ssv.vc"}
+  - {"name":"🇬🇧 英国 05","server":"ctuka.ssv.vc","port":30447,"type":"http","username":"test","password":"test.+","tls":true,"skip-cert-verify":true,"sni":"ctuka.ssv.vc"}
+  - {"name":"🇬🇧 英国 06","server":"ctukb.ssv.vc","port":30447,"type":"http","username":"test","password":"test.+","tls":true,"skip-cert-verify":true,"sni":"ctukb.ssv.vc"}
+  - {"name":"🇬🇧 英国 07","server":"awsuk.ssv.vc","port":30447,"type":"http","username":"test","password":"test.+","tls":true,"skip-cert-verify":true,"sni":"awsuk.ssv.vc"}
+  - {"name":"🇺🇸 美国 01","server":"ipv6ctusa.ssv.vc","port":30445,"type":"http","username":"test","password":"test.+","tls":true,"skip-cert-verify":true,"sni":"ipv6ctusa.ssv.vc"}
+  - {"name":"🇺🇸 美国 02","server":"cuusb.ssv.vc","port":30445,"type":"http","username":"test","password":"test.+","tls":true,"skip-cert-verify":true,"sni":"cuusb.ssv.vc"}
+  - {"name":"🇺🇸 美国 03","server":"cmusb.ssv.vc","port":30445,"type":"http","username":"test","password":"test.+","tls":true,"skip-cert-verify":true,"sni":"cmusb.ssv.vc"}
+  - {"name":"🇺🇸 美国 04","server":"ipv6cmusa.ssv.vc","port":30445,"type":"http","username":"test","password":"test.+","tls":true,"skip-cert-verify":true,"sni":"ipv6cmusa.ssv.vc"}
+  - {"name":"🇺🇸 美国 05","server":"ipv6cmusb.ssv.vc","port":30445,"type":"http","username":"test","password":"test.+","tls":true,"skip-cert-verify":true,"sni":"ipv6cmusb.ssv.vc"}
+  - {"name":"🇺🇸 美国 06","type":"hysteria2","server":"209.141.49.180","port":53011,"password":"de73f721-b98d-48cd-a272-f27f44bb7a67","sni":"yingshi.tv","skip-cert-verify":true,"tfo":false}
+  - {"name":"🇰🇷 韩国 01","server":"testkr3.ssv.vc","port":30446,"type":"http","username":"test","password":"test.+","tls":true,"skip-cert-verify":true,"sni":"testkr3.ssv.vc"}
+  - {"name":"🇰🇷 韩国 02","server":"testkr.ssv.vc","port":30446,"type":"http","username":"test","password":"test.+","tls":true,"skip-cert-verify":true,"sni":"testkr.ssv.vc"}
+  - {"name":"🇸🇬 新加坡 01","server":"ctsga.ssv.vc","port":30448,"type":"http","username":"test","password":"test.+","tls":true,"skip-cert-verify":true,"sni":"ctsga.ssv.vc"}
+  - {"name":"🇸🇬 新加坡 02","server":"ctsgb.ssv.vc","port":30448,"type":"http","username":"test","password":"test.+","tls":true,"skip-cert-verify":true,"sni":"ctsgb.ssv.vc"}
+  - {"name":"🇸🇬 新加坡 03","server":"ctsga.ssv.vc","port":30448,"type":"http","username":"test","password":"test.+","tls":true,"skip-cert-verify":true,"sni":"ctsga.ssv.vc"}
+  - {"name":"🇸🇬 新加坡 04","server":"ctsgb.ssv.vc","port":30448,"type":"http","username":"test","password":"test.+","tls":true,"skip-cert-verify":true,"sni":"ctsgb.ssv.vc"}
+  - {"name":"🇸🇬 新加坡 05","server":"ctsga.ssv.vc","port":30448,"type":"http","username":"test","password":"test.+","tls":true,"skip-cert-verify":true,"sni":"ctsga.ssv.vc"}
+  - {"name":"🇸🇬 新加坡 06","server":"ctsgb.ssv.vc","port":30448,"type":"http","username":"test","password":"test.+","tls":true,"skip-cert-verify":true,"sni":"ctsgb.ssv.vc"}
